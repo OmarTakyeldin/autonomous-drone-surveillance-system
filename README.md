@@ -28,3 +28,25 @@ This project presents a fully autonomous drone-based surveillance framework capa
 - **Lightweight Communication Protocol**  
   Drones use Webots’ emitter/receiver devices for simple but effective peer-to-peer signaling during handover.
 
+---
+
+## ⚙️ Requirements
+
+- **Python**: 3.8 or later
+- **Simulation Environment**: [Webots R2023b+](https://cyberbotics.com/)
+- **Python Dependencies within the code files**: pip install numpy opencv-python matplotlib scikit-image
+
+---
+
+## 🚀 How to Run
+
+### 1. Open project files downloaded
+
+### 2. Set Up Your Environment
+Ensure Python 3.8+ is installed 
+
+### 3. Go to the "worlds" file and pick one
+
+### 4. Launch Webots and run the simulation automatically
+
+
